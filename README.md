@@ -12,7 +12,7 @@
 
 - 👨‍💻 My Resume [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 
-- My Projects [https://my.novypro.com/debarjo)
+- My Projects https://my.novypro.com/debarjo
 
 
 <hr/>
