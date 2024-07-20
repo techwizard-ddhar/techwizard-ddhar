@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 👨‍💻 My Resume [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 My Resume https://drive.google.com/file/d/1qdumE8vnvCqZheowgRGcwwfelo_Sem_T/view?usp=sharing
 
 - My Projects https://my.novypro.com/debarjo
 
